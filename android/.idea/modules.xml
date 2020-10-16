@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1981821521/advanced_share.iml" filepath="$PROJECT_DIR$/.idea/modules/1981821521/advanced_share.iml" group="android/advanced_share" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1058995835/cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/1058995835/cloud_firestore.iml" group="android/cloud_firestore" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1135267430/firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1135267430/firebase_auth.iml" group="android/firebase_auth" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1708563776/firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/1708563776/firebase_core.iml" group="android/firebase_core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1643773723/firebase_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1643773723/firebase_storage.iml" group="android/firebase_storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-945597074/flutter_keyboard_visibility.iml" filepath="$PROJECT_DIR$/.idea/modules/-945597074/flutter_keyboard_visibility.iml" group="android/flutter_keyboard_visibility" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1396365335/flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/-1396365335/flutter_plugin_android_lifecycle.iml" group="android/flutter_plugin_android_lifecycle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2130198493/image_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/2130198493/image_picker.iml" group="android/image_picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1867198582/url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/-1867198582/url_launcher.iml" group="android/url_launcher" />
+    </modules>
+  </component>
+</project>

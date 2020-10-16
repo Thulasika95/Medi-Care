@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="492c2e09-091b-4423-a758-406f71446d4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Pacifico-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Piedra-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/recipescloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/HealthyDiet1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/HealthyDiet2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/HealthyParenting1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/HealthyParenting2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/HealthyParenting3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/MentalHealth1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/MentalHealth2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/StayPhysicallyActive1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/StayPhysicallyActive2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/StayPhysicallyActive3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/StayPhysicallyActive4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/StayPhysicallyActive5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/call.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/cameraa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/diet2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/exercise.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/galleryy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/health.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/healthyParenting.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/med.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/mentalHealth.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/pharmacist.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/pres.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/presc.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/ste_re.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/upload.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/admin_screens/addpage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/admin_screens/informationPage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/admin_screens/updatepage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/admin_screens/view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/cus_screens/HealthyDiet.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/cus_screens/HealthyParenting.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/cus_screens/MainHome.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/cus_screens/MentalHealth.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/cus_screens/MenuItems.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/cus_screens/StayPhysicallyActive.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/cus_screens/camera.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/cus_screens/cart.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/cus_screens/consult_doctor.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/cus_screens/instructions.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/cus_screens/manage_profile.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/cus_screens/profile.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/shared/splashScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/admin_screens/admin_home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/admin_screens/admin_home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/admin_screens/admin_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/admin_screens/admin_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/admin_screens/manage_profile.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/cus_screens/show_medicine.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/cus_screens/show_medicine.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/models/profile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/models/profile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/providers/user_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/providers/user_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/services/auth.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/services/auth.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/services/database.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/services/database.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/services/firestore_services.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/services/firestore_services.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/wrapper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/wrapper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/widget_test.dart" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_28" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iXydq4XOd9pEDWpnhVoHwCIj7G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="492c2e09-091b-4423-a758-406f71446d4d" name="Default Changelist" comment="" />
+      <created>1602068321637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602068321637</updated>
+    </task>
+    <servers />
+  </component>
+</project>
